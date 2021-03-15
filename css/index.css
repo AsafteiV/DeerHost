@@ -1,0 +1,123 @@
+html, body{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+
+    background-image: url("../images/4.jpg");
+    background-size: cover;
+    height: 800px;
+}
+.imagine{
+    size: 30px;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+.support{
+    margin-top: 10px;
+  color: azure;
+  align-items: center;
+}
+
+.head_support{
+    color: white;
+}
+
+.nav{
+    text-transform: uppercase;
+}
+.nav_link{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 15px;
+    color: white;
+    
+}
+.owl-dots{
+    text-align: center;
+   
+}
+.textPrice{
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+    
+    
+} 
+
+
+.col_Price{
+    grid-column-start: 20px;
+    margin-top: 40px;
+}
+.second_head{
+    background-color: white;
+    
+}
+.container_2{
+    text-align: center;
+    background-color: white;
+}
+.register_result{
+    display: inline;
+    
+}
+.hosting_solution{
+    background-color: rgb(238, 239, 250);
+}
+.card_hosting{
+    border-radius: 2;
+    padding-bottom: 80px;
+}
+.card_text{
+    font-size: 25px;
+
+}
+.welcome{
+    background-color: #f7f4f4;
+}
+.price2{
+    color: blue;
+   font-size: 20px;
+}
+.price3{
+    color: black;
+}
+.price4{
+   
+}
+.register_form{
+    font-size: 60px;
+}
+.section_title{
+    font-size: 50px;
+}
+.form-control{
+    font-size: 40px;
+}
+.search-border{
+    border: 2px solid blue;
+    border-radius: 50rem;
+}
+.price-card{
+    background-color:rgb(52, 26, 124);
+    color: white;
+    border-radius: 50rem;
+    width: 90%;
+    position: absolute;
+    left: 10px;
+    top: 55px;
+    z-index: 1;
+    box-shadow: gray;
+}
+.price-card:hover{
+    background-color: rgb(82, 73, 247);
+}
+.buton-card{
+    background-color: rgb(52, 26, 124);
+}
+.buton-card:hover{
+    background-color:rgb(82, 73, 247) ;
+}
+
